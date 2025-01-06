@@ -5,7 +5,7 @@ title: Welcome to my blog
 
 # Hey there! 👋
 
-I'm Yossi, a self-taught coder having fun building stuff. This little website is a side project I whipped up using GitHub Pages, inspired by התלתל's tweet (https://x.com/taltimes2/status/1875879963393413514?mx=2). I'm really into learning new tech and exploring the world of development.
+I'm Yossi, a self-taught coder having fun building stuff. This little website is a side project I whipped up using GitHub Pages, inspired by [התלתל's tweet](https://x.com/taltimes2/status/1875879963393413514?mx=2). I'm really into learning new tech and exploring the world of development.
 
 # What I'm Up To
 
@@ -13,8 +13,8 @@ Right now, I'm knee-deep in my final project for Harvard's CS50x. It's keeping m
 
 # Let's Connect
 
-*   GitHub: [yoomiy](https://github.com/yoomiy)
-*   Twitter: [I'm not really on twitter, but here's my profile](https://twitter.com/seferontw)
+- GitHub: [yoomiy](https://github.com/yoomiy)
+- Twitter: I'm not really on twitter, but here's [my profile](https://twitter.com/seferontw)
 
 # Quick Note About My GitHub
 

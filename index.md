@@ -1,9 +1,10 @@
 ---
+title: Welcome to my blog
 # Your Name - Personal Website
 
 # Hey there! 👋
 
-I'm [Your Name], a self-taught coder having fun building stuff. This little website is a side project I whipped up using GitHub Pages, inspired by the  התלתל tweet (https://x.com/taltimes2/status/1875879963393413514?mx=2). I'm really into learning new tech and exploring the world of development.
+I'm Yossi, a self-taught coder having fun building stuff. This little website is a side project I whipped up using GitHub Pages, inspired by ['sהתלתל tweet] (https://x.com/taltimes2/status/1875879963393413514?mx=2). I'm really into learning new tech and exploring the world of development.
 
 # What I'm Up To
 
